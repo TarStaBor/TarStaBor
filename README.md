@@ -10,8 +10,6 @@
 - 📽️ Смотрю фильмы
 - 🎹 Играю на музыкальных инструментах 
 
-<br />
-
 ### Стек технологий:
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="padding-right:10px"/>
@@ -26,8 +24,6 @@
 <br />
 
 ### Связаться со мной:
-
-<br />
 
 [<img align="left" alt="Stanislav | LinkedIn" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/349436/linkedin.svg" />][linkedin]
 [<img align="left" alt="Stanislav | Instagram" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" />][instagram]
