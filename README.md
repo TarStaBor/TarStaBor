@@ -28,10 +28,10 @@
 
 ### Связаться со мной:
 
-[<img align="left" alt="Stanislav | LinkedIn" width="26px" style="padding-right:10px" src="https://img-premium.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1633638030~hmac=10c049a1dc101098280441e9d5400981" />][linkedin]
-[<img align="left" alt="Stanislav | Instagram" width="26px" style="padding-right:10px" src="https://img-premium.flaticon.com/png/512/2504/premium/2504918.png?token=exp=1633637998~hmac=73eb6dcb98c4d8d67ea80473b468cd6f" />][instagram]
-[<img align="left" alt="Stanislav | VK" width="26px" style="padding-right:10px" src="https://img-premium.flaticon.com/png/512/2504/premium/2504953.png?token=exp=1633637934~hmac=4ce0173276b4cafeee17a28496c41034" />][vk]
-[<img align="left" alt="Stanislav | Telegram" width="26px" style="padding-right:10px" src="https://img-premium.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1633637820~hmac=ecf1e8e10898688f32ca7469010451f8" />][tg]
+[<img align="left" alt="Stanislav | LinkedIn" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/349436/linkedin.svg" />][linkedin]
+[<img align="left" alt="Stanislav | Instagram" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" />][instagram]
+[<img align="left" alt="Stanislav | VK" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/349554/vk.svg" />][vk]
+[<img align="left" alt="Stanislav | Telegram" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/349527/telegram.svg" />][tg]
 
 
 [linkedin]: https://www.linkedin.com/in/stanislav-tarasov-11b428191/
