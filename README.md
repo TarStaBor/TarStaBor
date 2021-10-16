@@ -1,4 +1,4 @@
-## Привет, меня зовут Стас ✌️
+## Привет, меня зовут Стас! ✌️
 
 ### Я начинающий Frontend-разработчик :man_student:
 
@@ -8,7 +8,7 @@
 - 🧐 Изучаю новое
 - 🏃 Занимаюсь спортом
 - 📽️ Смотрю фильмы
-- 🎹 Играю на музыкальных инструментах 
+- 🎹 Играю на музыкальных инструментах
 
 ### Стек технологий:
 
@@ -29,7 +29,6 @@
 [<img align="left" alt="Stanislav | Instagram" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" />][instagram]
 [<img align="left" alt="Stanislav | VK" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/349554/vk.svg" />][vk]
 [<img align="left" alt="Stanislav | Telegram" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/349527/telegram.svg" />][tg]
-
 
 [linkedin]: https://www.linkedin.com/in/stanislav-tarasov-11b428191/
 [instagram]: https://www.instagram.com/oloe_stase/
