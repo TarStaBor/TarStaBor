@@ -5,7 +5,7 @@
 <br />
 
 - 😊 I love coding
-- 🧐 I like to explore new technologies and develop software solutions
+- 🧐 I like to explore new technologies
 - 🏃 I do sports
 - 🎹 I play musical instruments
 
