@@ -1,15 +1,19 @@
-## Hi there, Welcome to my GitHub! ✌️
-
-### I'm Stanislav, frontend developer
+<h1 align="center">Привет, меня зовут Стас! ✌️</h1>
+<h2 align="center"> Я Junior Frontend-разработчик :man_student: </h2>
 
 <br />
 
-- 😊 I love coding
-- 🧐 I like to explore new technologies
-- 🏃 I do sports
-- 🎹 I play musical instruments
+- 😊 Люблю кодить
+- 🧐 Изучаю новое
+- 🏃 Занимаюсь спортом
+- 📽️ Смотрю фильмы
+- 🎹 Играю на музыкальных инструментах
 
-### Languages and Tools:
+### Моя статистика на Codewars:
+
+[![Codewarrior Profile Badges](https://www.codewars.com/users/TarStaBor/badges/large)](https://www.codewars.com/users/TarStaBor)
+
+### Стек технологий:
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" style="padding-right:10px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" style="padding-right:10px"/>
@@ -18,19 +22,13 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" height="40" style="padding-right:10px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" style="padding-right:10px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="padding-right:10px"/>
-
-<br />
-<br />
-
-### Softwares:
-
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="padding-right:10px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40"style="padding-right:10px"/>
 
 <br />
 <br />
 
-### Reach Me:
+### Связаться со мной:
 
 [<img align="left" alt="Stanislav | LinkedIn" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/349436/linkedin.svg" />][linkedin]
 [<img align="left" alt="Stanislav | Instagram" width="26px" style="padding-right:10px" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" />][instagram]
